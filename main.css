@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+body{margin: 0;}
+
+a{
+    color: blue;
+}
+a:hover{
+    color: red;
+}
+
+body{
+    background-color: darkgray;
+}
+
+h1{
+    text-align: center;
+}
+
+.contactinfo{
+    
+}
+
+.image{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.Image{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.aboutme{
+    display: flex;
+    justify-content: center;
+}
+.aboutmetext{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
